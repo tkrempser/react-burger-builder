@@ -7,7 +7,7 @@ import styles from './Layout.module.css';
 const layout = (props) => (
   <Aux>
     <div>Toolbar, Drawer, Backdrop</div>
-    <main className={styles.content}>
+    <main className={styles.Content}>
       {props.children}
     </main>
   </Aux>
