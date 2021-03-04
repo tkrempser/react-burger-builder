@@ -1,7 +1,7 @@
 {
   "name": "react-burger-builder",
   "version": "0.1.0",
-  "homepage": "https://tkrempser.github.io/react-burger-builder",
+  "homepage": "https://tkrempser.github.io/react-burger-builder/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
