@@ -1,3 +1,3 @@
-# React Burguer Builder
+# React Burger Builder
 
-Burguer Builder app built with React.
+Burger Builder app built with React.
