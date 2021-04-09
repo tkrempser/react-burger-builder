@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-burger-builder/static/css/main.81dfe94a.chunk.css",
-    "main.js": "/react-burger-builder/static/js/main.cc679cfb.chunk.js",
-    "main.js.map": "/react-burger-builder/static/js/main.cc679cfb.chunk.js.map",
-    "runtime-main.js": "/react-burger-builder/static/js/runtime-main.61dcc055.js",
-    "runtime-main.js.map": "/react-burger-builder/static/js/runtime-main.61dcc055.js.map",
-    "static/js/2.7b98c5b1.chunk.js": "/react-burger-builder/static/js/2.7b98c5b1.chunk.js",
-    "static/js/2.7b98c5b1.chunk.js.map": "/react-burger-builder/static/js/2.7b98c5b1.chunk.js.map",
-    "static/js/3.1c055fb7.chunk.js": "/react-burger-builder/static/js/3.1c055fb7.chunk.js",
-    "static/js/3.1c055fb7.chunk.js.map": "/react-burger-builder/static/js/3.1c055fb7.chunk.js.map",
+    "main.css": "/react-burger-builder/static/css/main.08ae8975.chunk.css",
+    "main.js": "/react-burger-builder/static/js/main.f82e18e1.chunk.js",
+    "main.js.map": "/react-burger-builder/static/js/main.f82e18e1.chunk.js.map",
+    "runtime-main.js": "/react-burger-builder/static/js/runtime-main.33ad76ed.js",
+    "runtime-main.js.map": "/react-burger-builder/static/js/runtime-main.33ad76ed.js.map",
+    "static/js/2.d58d0969.chunk.js": "/react-burger-builder/static/js/2.d58d0969.chunk.js",
+    "static/js/2.d58d0969.chunk.js.map": "/react-burger-builder/static/js/2.d58d0969.chunk.js.map",
+    "static/js/3.07cd1f1c.chunk.js": "/react-burger-builder/static/js/3.07cd1f1c.chunk.js",
+    "static/js/3.07cd1f1c.chunk.js.map": "/react-burger-builder/static/js/3.07cd1f1c.chunk.js.map",
     "index.html": "/react-burger-builder/index.html",
-    "static/css/main.81dfe94a.chunk.css.map": "/react-burger-builder/static/css/main.81dfe94a.chunk.css.map",
-    "static/js/2.7b98c5b1.chunk.js.LICENSE.txt": "/react-burger-builder/static/js/2.7b98c5b1.chunk.js.LICENSE.txt"
+    "static/css/main.08ae8975.chunk.css.map": "/react-burger-builder/static/css/main.08ae8975.chunk.css.map",
+    "static/js/2.d58d0969.chunk.js.LICENSE.txt": "/react-burger-builder/static/js/2.d58d0969.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.61dcc055.js",
-    "static/js/2.7b98c5b1.chunk.js",
-    "static/css/main.81dfe94a.chunk.css",
-    "static/js/main.cc679cfb.chunk.js"
+    "static/js/runtime-main.33ad76ed.js",
+    "static/js/2.d58d0969.chunk.js",
+    "static/css/main.08ae8975.chunk.css",
+    "static/js/main.f82e18e1.chunk.js"
   ]
 }
